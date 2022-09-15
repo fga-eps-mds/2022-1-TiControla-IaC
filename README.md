@@ -1,5 +1,12 @@
-# 2022-1-TiControla-IaC
-Infrastructure as code (IaC) do cluster Kubernetes no qual a API do app Ti Controla roda.
+# TiControla IaC
+Infrastructure as code (IaC) do cluster Kubernetes no qual a API do app TiControla roda.
+
+## Links úteis.
+
+- [Como fazer requisições HTTP para a API.](https://github.com/leomichalski/2022-1-TiControla-BackEnd/edit/main/README.md#como-fazer-requisi%C3%A7%C3%B5es-http-para-a-api-usando-curl)
+- [Setup do ambiente de produção.](https://github.com/leomichalski/2022-1-TiControla-BackEnd/blob/main/src#setup-do-ambiente-de-debugdesenvolvimento)
+- [Como contribuir.](https://github.com/fga-eps-mds/2022-1-TiControla-Docs/blob/main/CONTRIBUTING.md)
+- [Outros documentos.](https://github.com/fga-eps-mds/2022-1-TiControla-Docs)
 
 ### Como criar o servidor usando DigitalOcean e Terraform.
 A DigitalOcean oferece 100 USD de crédito para estudantes por meio do GitHub Student Developer Pack (estudantes da UnB tem acesso ao pack). Independente do GitHub Education, é necessário ter um cartão de crédito internacional para liberar o crédito de 100 USD.
