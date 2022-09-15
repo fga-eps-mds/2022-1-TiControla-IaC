@@ -8,7 +8,7 @@ Infrastructure as code (IaC) do cluster Kubernetes no qual a API do app TiContro
 - [Como contribuir.](https://github.com/fga-eps-mds/2022-1-TiControla-Docs/blob/main/CONTRIBUTING.md)
 - [Outros documentos.](https://github.com/fga-eps-mds/2022-1-TiControla-Docs)
 
-### Como criar o servidor usando DigitalOcean e Terraform.
+## Como criar o servidor usando DigitalOcean e Terraform.
 A DigitalOcean oferece 100 USD de crédito para estudantes por meio do GitHub Student Developer Pack (estudantes da UnB tem acesso ao pack). Independente do GitHub Education, é necessário ter um cartão de crédito internacional para liberar o crédito de 100 USD.
 
 ##### Clonar o repositório.
