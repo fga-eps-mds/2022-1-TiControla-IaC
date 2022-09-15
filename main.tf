@@ -21,16 +21,19 @@ provider "digitalocean" {
   token = var.do_token
 }
 
+# kubernetes cluster
 resource "digitalocean_kubernetes_cluster" "k8s_ticontrola" {
-  name   = var.k8s_name
-  region = var.region
+  name    = var.k8s_name
+  region  = var.region
   # latest slug from the command 'doctl kubernetes options versions'
-  version = "1.23.9-do.0"
+  version = "1.24.4-do.0"
 
   node_pool {
-    name       = "worker-pool"
-    size       = "s-1vcpu-2gb"
-    node_count = 1
+    name       = "autoscale-worker-pool1"
+    size       = "s-2vcpu-4gb"
+    auto_scale = true
+    min_nodes  = 1
+    max_nodes  = 1
   }
 }
 
