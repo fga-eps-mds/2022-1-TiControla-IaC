@@ -3,8 +3,13 @@
 # Infrastructure as code (IaC)
 IaC do cluster Kubernetes no qual a API do app TiControla roda.
 
-## Links úteis.
+## Repositórios do projeto
+- [Docs](https://github.com/fga-eps-mds/2022-1-TiControla-Docs)
+- [FrontEnd](https://github.com/fga-eps-mds/2022-1-TiControla-FrontEnd)
+- [BackEnd](https://github.com/fga-eps-mds/2022-1-TiControla-BackEnd)
+- [IaC](https://github.com/fga-eps-mds/2022-1-TiControla-IaC)
 
+## Links úteis
 - [Repositório do app mobile (frontend).](https://github.com/fga-eps-mds/2022-1-TiControla-FrontEnd)
 - [Como fazer requisições HTTP para a API.](https://github.com/leomichalski/2022-1-TiControla-BackEnd/edit/main/README.md#como-fazer-requisi%C3%A7%C3%B5es-http-para-a-api-usando-curl)
 - [Setup do ambiente de produção.](https://github.com/leomichalski/2022-1-TiControla-BackEnd/blob/main/src#setup-do-ambiente-de-debugdesenvolvimento)
