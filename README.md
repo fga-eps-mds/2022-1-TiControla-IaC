@@ -3,14 +3,13 @@
 # Infrastructure as code (IaC)
 IaC do cluster Kubernetes no qual a API do app TiControla roda.
 
-## Repositórios do projeto
-- [Docs](https://github.com/fga-eps-mds/2022-1-TiControla-Docs): documentos exceto os de instalação e de execução.
-- [FrontEnd](https://github.com/fga-eps-mds/2022-1-TiControla-FrontEnd): aplicativo mobile.
-- [BackEnd](https://github.com/fga-eps-mds/2022-1-TiControla-BackEnd): REST API.
-- [IaC](https://github.com/fga-eps-mds/2022-1-TiControla-IaC): infraestrutura como código.
-
 ## Links úteis
-- [Repositório do app mobile (frontend).](https://github.com/fga-eps-mds/2022-1-TiControla-FrontEnd)
+- [Repositório Docs: documentos exceto os de instalação e de execução.](https://github.com/fga-eps-mds/2022-1-TiControla-Docs)
+- [Repositório FrontEnd: aplicativo mobile.](https://github.com/fga-eps-mds/2022-1-TiControla-FrontEnd)
+- [Repositório BackEnd: REST API.](https://github.com/fga-eps-mds/2022-1-TiControla-BackEnd)
+- [Repositório IaC: infraestrutura como código.](https://github.com/fga-eps-mds/2022-1-TiControla-IaC)
+- [Vídeo explicativo: vídeo que explica o projeto e seus principais arquivos e pastas.](https://www.youtube.com/watch?v=I2juKHgg2lw)
+
 - [Como fazer requisições HTTP para a API.](https://github.com/leomichalski/2022-1-TiControla-BackEnd/edit/main/README.md#como-fazer-requisi%C3%A7%C3%B5es-http-para-a-api-usando-curl)
 - [Setup do ambiente de produção.](https://github.com/leomichalski/2022-1-TiControla-BackEnd/blob/main/src#setup-do-ambiente-de-debugdesenvolvimento)
 - [Como contribuir.](https://github.com/fga-eps-mds/2022-1-TiControla-Docs/blob/main/CONTRIBUTING.md)
